@@ -1,0 +1,69 @@
+Source,Destination,Weight
+RGIA,Gangaram,59.0
+RGIA,Kurmaguda,49.0
+RGIA,Rajendranagar Mandal,33.0
+RGIA,Kismatpur,33.0
+Gangaram,Kurmaguda,1.0
+Kurmaguda,Kothapet Village,20.0
+Kurmaguda,Sivarampalli,33.0
+Rajendranagar Mandal,Sivarampalli,15.0
+Sivarampalli,Kothapet Village,51.0
+Kothapet Village,L B Nagar,9.0
+Sivarampalli,Attapur,15.0
+Rajendranagar Mandal,Attapur,4.0
+Kismatpur,Attapur,20.0
+Kismatpur,Manikonda,35.0
+Manikonda,Gachibowli,23.0
+Attapur,Khairatabad,30.0
+Gachibowli,Chanda Nagar,1.0
+Chanda Nagar,Miyapur,59.0
+Gachibowli,Miyapur,25.0
+Gachibowli,Kondapur,16.0
+Miyapur,Kondapur,19.0
+Kondapur,Bachupally,35.0
+Gachibowli,Hitec City,17.0
+Hitec City,Bachupally,34.0
+Hitec City,Kukatpally,20.0
+Hitec City,Jubilee Hills,15.0
+Bachupally,Kukatpally,20.0
+Bachupally,Balanagar,25.0
+Kukatpally,Balanagar,7.0
+Jubilee Hills,Balanagar,27.0
+Jubilee Hills,Banjara Hills,13.0
+Banjara Hills,Ameerpet,14.0
+Balanagar,Quthbullapur,20.0
+Ameerpet,Quthbullapur,26.0
+Ameerpet,Bakaram,25.0
+Banjara Hills,Khairatabad,16.0
+Balanagar,Ameerpet,14.0
+Quthbullapur,Trimulgherry,28.0
+Trimulgherry,Malkajgiri,21.0
+Bakaram,Malkajgiri,28.0
+Khairatabad,Bakaram,13.0
+Khairatabad,L B Nagar,39.0
+L B Nagar,Nagole,14.0
+Nagole,Uppal,13.0
+Bakaram,Uppal,27.0
+Uppal,Pocharam,1.0
+Nagole,Daira,25.0
+Daira,Pocharam,1.0
+Uppal,Moula Ali,28.0
+Pocharam,Kapra,1.0
+Pocharam,Dammaiguda,1.0
+Moula Ali,Kapra,10.0
+Kapra,Dammaiguda,16.0
+Dammaiguda,BITS Hyderabad,38.0
+Kapra,Sainikpuri,9.0
+Moula Ali,Sainikpuri,11.0
+Moula Ali,Yapral,17.0
+Sainikpuri,BITS Hyderabad,32.0
+Malkajgiri,Yapral,25.0
+Yapral,BITS Hyderabad,27.0
+Trimulgherry,Kompally,25.0
+Kompally,Old Alwal,20.0
+Old Alwal,Alwal,7.0
+Alwal,BITS Hyderabad,29.0
+Alwal,Bolarum,13.0
+Bolarum,BITS Hyderabad,26.0
+Bolarum,Medchal,33.0
+Medchal,BITS Hyderabad,46.0

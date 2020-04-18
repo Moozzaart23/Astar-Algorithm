@@ -1,0 +1,69 @@
+Source,Destination
+RGIA,Gangaram
+RGIA,Kurmaguda
+RGIA,Rajendranagar Mandal
+RGIA,Kismatpur
+Gangaram,Kurmaguda
+Kurmaguda,Kothapet Village
+Kurmaguda,Sivarampalli
+Rajendranagar Mandal,Sivarampalli
+Sivarampalli,Kothapet Village
+Kothapet Village,L B Nagar
+Sivarampalli,Attapur
+Rajendranagar Mandal,Attapur
+Kismatpur,Attapur
+Kismatpur,Manikonda
+Manikonda,Gachibowli
+Attapur,Khairatabad
+Gachibowli,Chanda Nagar
+Chanda Nagar,Miyapur
+Gachibowli,Miyapur
+Gachibowli,Kondapur
+Miyapur,Kondapur
+Kondapur,Bachupally
+Gachibowli,Hitec City
+Hitec City,Bachupally
+Hitec City,Kukatpally
+Hitec City,Jubilee Hills
+Bachupally,Kukatpally
+Bachupally,Balanagar
+Kukatpally,Balanagar
+Jubilee Hills,Balanagar
+Jubilee Hills,Banjara Hills
+Banjara Hills,Ameerpet
+Balanagar,Quthbullapur
+Ameerpet,Quthbullapur
+Ameerpet,Bakaram
+Banjara Hills,Khairatabad
+Balanagar,Ameerpet
+Quthbullapur,Trimulgherry
+Trimulgherry,Malkajgiri
+Bakaram,Malkajgiri
+Khairatabad,Bakaram
+Khairatabad,L B Nagar
+L B Nagar,Nagole
+Nagole,Uppal
+Bakaram,Uppal
+Uppal,Pocharam
+Nagole,Daira
+Daira,Pocharam
+Uppal,Moula Ali
+Pocharam,Kapra
+Pocharam,Dammaiguda
+Moula Ali,Kapra
+Kapra,Dammaiguda
+Dammaiguda,BITS Hyderabad
+Kapra,Sainikpuri
+Moula Ali,Sainikpuri
+Moula Ali,Yapral
+Sainikpuri,BITS Hyderabad
+Malkajgiri,Yapral
+Yapral,BITS Hyderabad
+Trimulgherry,Kompally
+Kompally,Old Alwal
+Old Alwal,Alwal
+Alwal,BITS Hyderabad
+Alwal,Bolarum
+Bolarum,BITS Hyderabad
+Bolarum,Medchal
+Medchal,BITS Hyderabad
