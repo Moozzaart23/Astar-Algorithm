@@ -8,9 +8,8 @@ def dist(src_lat, src_lng, dest_lat, dest_lng):
     request = endpoint + nav_request
     response = urllib.request.urlopen(request).read()
     duration = json.loads(response)
-    duration = duration['rows'][0]['elements'][0]['duration']['text']
-    duration = duration.strip().split()
-    duration = float(duration[0])
+    duration = duration['rows'][0]['elements'][0]['duration']['value']
+    duration = float(duration/60)
     return duration
 
 

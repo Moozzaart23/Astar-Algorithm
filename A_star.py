@@ -8,9 +8,8 @@ def dist(src_lat, src_lng, dest_lat, dest_lng):
     request = endpoint + nav_request
     response = urllib.request.urlopen(request).read()
     duration = json.loads(response)
-    duration = duration['rows'][0]['elements'][0]['duration']['text']
-    duration = duration.strip().split()
-    duration = float(duration[0])
+    duration = duration['rows'][0]['elements'][0]['duration']['value']
+    duration = float(duration/60)
     return duration
 
 
@@ -58,7 +57,6 @@ for i in range(41):
     s1 = df4['Locations'][i]
     s2 = end
     Heuristic[s1] = dist(str(NOP_coordinate[s1][0]),str(NOP_coordinate[s1][1]),str(NOP_coordinate[s2][0]),str(NOP_coordinate[s2][1]))
-
 
 open_list = [(0+Heuristic[start],start)]
 
@@ -113,7 +111,10 @@ path.append(start)
 path.reverse()
 
 for node in path:
-    coordinates.append(NOP_coordinate[node])
+    c = []
+    c.append(NOP_coordinate[node][0])
+    c.append(NOP_coordinate[node][1])
+    coordinates.append(c)
 
 print("Path is ")
 print(path)
@@ -123,3 +124,17 @@ print(coordinates)
 print()
 print("Optimal duration of the journey is")
 print(f_n[end])
+print('\n')
+
+url = "https://dev.virtualearth.net/REST/v1/Imagery/Map/Road/Routes?"
+for i in range(len(coordinates)):
+    url = url + "wp."+str(i)+"="+str(coordinates[i][0])+","+str(coordinates[i][1])+"&"
+url = url + "key=AlHaFbrw006PkrgcKFwhW_fO8mpDq5w8gZc47tAfnRfVZj1gmTg6fq3y0n9m-ZIB"
+
+print("Bing Map Url is :\n")
+print(url)
+print('\n')
+print("To see a better view on google map, just copy-paste the coordinates from the terminal to",end=" ")
+print("the google_map_path.html file and see the html file on the browser !")
+
+print('\n')

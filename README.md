@@ -17,7 +17,7 @@ The heuristic function used in the A* algorithm is
 - Clone this repository in your preferred directory
  > git clone [https://github.com/Moozzaart23/Astar-algorithm.git]()
 
- - Run the file to generate the points
+ - Run the file to generate the points. 
 > python Place_to_coordinate.py
 
 - Run the file to generate edges_with_weights.csv from edges.csv using google’s distance metric API.

@@ -1,69 +1,69 @@
 Source,Destination,Weight
-RGIA,Gangaram,59.0
-RGIA,Kurmaguda,49.0
-RGIA,Rajendranagar Mandal,33.0
-RGIA,Kismatpur,33.0
-Gangaram,Kurmaguda,1.0
-Kurmaguda,Kothapet Village,20.0
-Kurmaguda,Sivarampalli,33.0
-Rajendranagar Mandal,Sivarampalli,15.0
-Sivarampalli,Kothapet Village,51.0
-Kothapet Village,L B Nagar,9.0
-Sivarampalli,Attapur,15.0
-Rajendranagar Mandal,Attapur,4.0
-Kismatpur,Attapur,20.0
-Kismatpur,Manikonda,35.0
-Manikonda,Gachibowli,23.0
-Attapur,Khairatabad,30.0
-Gachibowli,Chanda Nagar,1.0
-Chanda Nagar,Miyapur,59.0
-Gachibowli,Miyapur,25.0
-Gachibowli,Kondapur,16.0
-Miyapur,Kondapur,19.0
-Kondapur,Bachupally,35.0
-Gachibowli,Hitec City,17.0
-Hitec City,Bachupally,34.0
-Hitec City,Kukatpally,20.0
-Hitec City,Jubilee Hills,15.0
-Bachupally,Kukatpally,20.0
-Bachupally,Balanagar,25.0
-Kukatpally,Balanagar,7.0
-Jubilee Hills,Balanagar,27.0
-Jubilee Hills,Banjara Hills,13.0
-Banjara Hills,Ameerpet,14.0
+RGIA,Gangaram,58.53333333333333
+RGIA,Kurmaguda,49.5
+RGIA,Rajendranagar Mandal,32.71666666666667
+RGIA,Kismatpur,33.36666666666667
+Gangaram,Kurmaguda,76.91666666666667
+Kurmaguda,Kothapet Village,19.85
+Kurmaguda,Sivarampalli,34.166666666666664
+Rajendranagar Mandal,Sivarampalli,15.116666666666667
+Sivarampalli,Kothapet Village,50.766666666666666
+Kothapet Village,L B Nagar,8.516666666666667
+Sivarampalli,Attapur,14.616666666666667
+Rajendranagar Mandal,Attapur,4.183333333333334
+Kismatpur,Attapur,19.533333333333335
+Kismatpur,Manikonda,34.03333333333333
+Manikonda,Gachibowli,22.433333333333334
+Attapur,Khairatabad,32.4
+Gachibowli,Chanda Nagar,64.73333333333333
+Chanda Nagar,Miyapur,58.63333333333333
+Gachibowli,Miyapur,25.433333333333334
+Gachibowli,Kondapur,16.083333333333332
+Miyapur,Kondapur,18.7
+Kondapur,Bachupally,40.31666666666667
+Gachibowli,Hitec City,19.616666666666667
+Hitec City,Bachupally,41.78333333333333
+Hitec City,Kukatpally,37.2
+Hitec City,Jubilee Hills,15.283333333333333
+Bachupally,Kukatpally,19.35
+Bachupally,Balanagar,24.383333333333333
+Kukatpally,Balanagar,6.616666666666666
+Jubilee Hills,Balanagar,26.9
+Jubilee Hills,Banjara Hills,13.316666666666666
+Banjara Hills,Ameerpet,14.2
 Balanagar,Quthbullapur,20.0
-Ameerpet,Quthbullapur,26.0
-Ameerpet,Bakaram,25.0
-Banjara Hills,Khairatabad,16.0
-Balanagar,Ameerpet,14.0
-Quthbullapur,Trimulgherry,28.0
-Trimulgherry,Malkajgiri,21.0
-Bakaram,Malkajgiri,28.0
-Khairatabad,Bakaram,13.0
-Khairatabad,L B Nagar,39.0
-L B Nagar,Nagole,14.0
-Nagole,Uppal,13.0
-Bakaram,Uppal,27.0
-Uppal,Pocharam,1.0
-Nagole,Daira,25.0
-Daira,Pocharam,1.0
-Uppal,Moula Ali,28.0
-Pocharam,Kapra,1.0
-Pocharam,Dammaiguda,1.0
-Moula Ali,Kapra,10.0
-Kapra,Dammaiguda,16.0
-Dammaiguda,BITS Hyderabad,38.0
-Kapra,Sainikpuri,9.0
-Moula Ali,Sainikpuri,11.0
-Moula Ali,Yapral,17.0
-Sainikpuri,BITS Hyderabad,32.0
-Malkajgiri,Yapral,25.0
-Yapral,BITS Hyderabad,27.0
-Trimulgherry,Kompally,25.0
-Kompally,Old Alwal,20.0
-Old Alwal,Alwal,7.0
-Alwal,BITS Hyderabad,29.0
-Alwal,Bolarum,13.0
-Bolarum,BITS Hyderabad,26.0
-Bolarum,Medchal,33.0
+Ameerpet,Quthbullapur,26.2
+Ameerpet,Bakaram,25.133333333333333
+Banjara Hills,Khairatabad,15.916666666666666
+Balanagar,Ameerpet,14.266666666666667
+Quthbullapur,Trimulgherry,28.516666666666666
+Trimulgherry,Malkajgiri,20.75
+Bakaram,Malkajgiri,27.5
+Khairatabad,Bakaram,13.216666666666667
+Khairatabad,L B Nagar,38.8
+L B Nagar,Nagole,13.516666666666667
+Nagole,Uppal,12.716666666666667
+Bakaram,Uppal,27.083333333333332
+Uppal,Pocharam,21.0
+Nagole,Daira,25.266666666666666
+Daira,Pocharam,46.88333333333333
+Uppal,Moula Ali,27.866666666666667
+Pocharam,Kapra,37.166666666666664
+Pocharam,Dammaiguda,24.466666666666665
+Moula Ali,Kapra,9.666666666666666
+Kapra,Dammaiguda,15.416666666666666
+Dammaiguda,BITS Hyderabad,38.266666666666666
+Kapra,Sainikpuri,8.55
+Moula Ali,Sainikpuri,11.4
+Moula Ali,Yapral,16.716666666666665
+Sainikpuri,BITS Hyderabad,31.25
+Malkajgiri,Yapral,24.75
+Yapral,BITS Hyderabad,26.8
+Trimulgherry,Kompally,25.316666666666666
+Kompally,Old Alwal,20.116666666666667
+Old Alwal,Alwal,7.05
+Alwal,BITS Hyderabad,29.083333333333332
+Alwal,Bolarum,12.666666666666666
+Bolarum,BITS Hyderabad,25.466666666666665
+Bolarum,Medchal,33.166666666666664
 Medchal,BITS Hyderabad,46.0
