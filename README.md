@@ -38,7 +38,7 @@ The important files in this repository are:
 |make_edges_with_weights.py |Python code used to generate edges_with_weights.csv from edges.csv using google's distance metric API.
 
 ## Team Members
-- Anish Dey
+- [Anish Dey](https://github.com/Moozzaart23)
 - Sanjiv Shenoy
-- Srestha Srivastava
+- [Srestha Srivastava](https://github.com/twisted-sres)
 
