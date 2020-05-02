@@ -15,7 +15,7 @@ The heuristic function used in the A* algorithm is
 
 ## Installation
 - Clone this repository in your preferred directory
- > git clone [https://github.com/Moozzaart23/Astar-algorithm.git]()
+ > git clone `https://github.com/Moozzaart23/Astar-algorithm.git`
 
  - Run the file to generate the points. 
 > python Place_to_coordinate.py
