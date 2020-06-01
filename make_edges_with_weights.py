@@ -3,7 +3,7 @@ import json
 
 def dist(src_lat, src_lng, dest_lat, dest_lng):
     endpoint = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=metric&'
-    api_key = 'AIzaSyAMWJctuV0azNvNCm6zS9ASEZj_xn-dbIM'
+    api_key = 'Enter Your Key here'
     nav_request = 'origins={}&destinations={}&key={}'.format(src_lat+','+src_lng,dest_lat+','+dest_lng,api_key)
     request = endpoint + nav_request
     response = urllib.request.urlopen(request).read()
